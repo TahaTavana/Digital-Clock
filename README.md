@@ -19,7 +19,7 @@ The tkinter library (usually included by default)
 
 - Open a terminal or command prompt and navigate to the program’s directory.
 
--Run the following command:
+- Run the following command:
 ```bash
 git clone https://github.com/TahaTavana/Digital-Clock.git
 cd Digital-Clcok\
