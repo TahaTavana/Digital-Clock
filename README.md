@@ -1,20 +1,20 @@
 
-#Digital Clock in Python
+# Digital Clock in Python
 This project is a simple digital clock program written in Python. By running this program, you can see your system’s current time displayed digitally and updated live.
 
-##🚀 eatures
+## 🚀 eatures
 Displays hours, minutes, and seconds digitally
 
 Automatically updates the time every second
 
 Simple and user-friendly graphical interface
 
-##Requirements
+## Requirements
 Python 3 or higher installed
 
 The tkinter library (usually included by default)
 
-##How to Use
+## How to Use
 -Download the program file to your computer.
 
 -Open a terminal or command prompt and navigate to the program’s directory.
@@ -32,5 +32,3 @@ I'm experienced in **JavaScript**, **React**, and **Python**, and I love turning
 Whether it's building interactive UIs or writing efficient backend scripts, I'm always up for a challenge.
 
 📫 Reach me at: [tavanam814@gmail.com]
-
-![PaintApp](https://github.com/user-attachments/assets/6e30a379-f597-49d5-b7a1-3774d8de007b)
