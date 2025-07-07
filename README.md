@@ -22,7 +22,7 @@ The tkinter library (usually included by default)
 - Run the following command:
 ```bash
 git clone https://github.com/TahaTavana/Digital-Clock.git
-cd Digital-Clcok\
+cd Digital-Clock\
 python main.py
 ```
 ## About Me
@@ -32,3 +32,4 @@ I'm experienced in **JavaScript**, **React**, and **Python**, and I love turning
 Whether it's building interactive UIs or writing efficient backend scripts, I'm always up for a challenge.
 
 📫 Reach me at: [tavanam814@gmail.com]
+![Digital Clock Screenshot](clock.png)
