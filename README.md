@@ -15,9 +15,9 @@ Python 3 or higher installed
 The tkinter library (usually included by default)
 
 ## How to Use
--Download the program file to your computer.
+- Download the program file to your computer.
 
--Open a terminal or command prompt and navigate to the program’s directory.
+- Open a terminal or command prompt and navigate to the program’s directory.
 
 -Run the following command:
 ```bash
